@@ -1,22 +1,17 @@
-trojan://7b06d22a8a7c764f@c47ab06.pf.glados-config.net:3389?sni=n2.gladns.com#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
-ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTkAyMTMuMTgzLjU5LjE4NTo5MDMx#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
-ss://YWVzLTI1Ni1jZmI6ZE1MMnNmaGJWd3Z0Zk5QZUAyMTMuMTgzLjUzLjIyMjo5MDU4#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYUAyMTMuMTgzLjUzLjIyMjo5MDQy#%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6
-ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWEAyMTMuMTgzLjU5LjIyOTo5MDQ1#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
-ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWkAyMTMuMTgzLjU5LjE4NTo5MDU3#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
-ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Y0AyMTMuMTgzLjU5LjE4NTo5MDI1#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
-vmess://eyJhZGQiOiIxNTIuNzAuODguNDciLCJ2IjoyLCJwcyI6IvCfh7Dwn4e3X0tSX+mfqeWbvSIsInBvcnQiOjEwNDg2LCJpZCI6IjllYWFiYjkwLWM5OGItNGZhMy05ODkwLTg2MjJkNTNjODc4YyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiJ9
-vmess://eyJhZGQiOiJwZi5uYXBzdGVybmV0di5jb20iLCJ2IjoyLCJwcyI6IvCfh7fwn4e6X1JVX+S/hOe9l+aWr+iBlOmCpiIsInBvcnQiOjQwMDQ2LCJpZCI6IjJGMDk0ODQ1LUUyQkQtRUJGNy1ERUI3LTk5NTk5MjQzNkZBRiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMifQ==
-trojan://idc117okt@103.176.78.153:443#default_name
-ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WUAyMTMuMTgzLjU5LjE4NTo5MDU5#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
-vmess://eyJhZGQiOiIxMjkuMTU5LjEzOS4xMDEiLCJ2IjoyLCJwcyI6IvCfh67wn4exX0lMX+S7peiJsuWIlyIsInBvcnQiOjQ0MywiaWQiOiJiNzUxOWE2Zi1jMWRlLTQ2NjctZTYwNi1iNjBjNjVkMTkwNzgiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMifQ==
-vmess://eyJhZGQiOiIxMzguMi42Ni4xNTMiLCJ2IjoyLCJwcyI6IvCfh7rwn4e4X1VTX+e+juWbvSIsInBvcnQiOjEwMDExLCJpZCI6IjA0MjM1YTEyLTc2NjgtNDZmMC1jOWYxLWRlZjU0NjgyYzhlZiIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiJ9
-trojan://a992be42-bed4-3037-8788-9e860cd635d3@183.232.141.154:19214#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%B9%F0%9F%87%BC_TW_%E5%8F%B0%E6%B9%BE
-trojan://6248895b-4255-4f07-9479-d198bc1eb8db@45.88.148.237:443?sni=dc1-download.windowsupdate1.com#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-trojan://a992be42-bed4-3037-8788-9e860cd635d3@183.232.141.154:19202#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%AD%F0%9F%87%B0_HK_%E9%A6%99%E6%B8%AF
-trojan://6248895b-4255-4f07-9479-d198bc1eb8db@45.82.253.237:443?sni=dc1-download.windowsupdate1.com#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD
-trojan://7b06d22a8a7c764f@c47ab06.pc.glados-config.net:3389?sni=n2.gladns.com#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
-trojan://6248895b-4255-4f07-9479-d198bc1eb8db@15.164.177.214:443?sni=dc1-download.windowsupdate1.com#%F0%9F%87%B0%F0%9F%87%B7_KR_%E9%9F%A9%E5%9B%BD
-trojan://24913fd0-a94b-4ed9-9b0e-fddb06af63d3@183.245.146.6:21002?sni=65-108-102-32.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD
-trojan://24913fd0-a94b-4ed9-9b0e-fddb06af63d3@183.245.146.6:21001?sni=65-108-102-32.nhost.00cdn.com#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%B1%F0%9F%87%B9_LT_%E7%AB%8B%E9%99%B6%E5%AE%9B
-trojan://ZlYZ0KxC8uxngp736aR34y3TaFwFOC95DO2XR8yeeAD3cESNDSCBqAYIjpaSlz@219.76.13.175:443?sni=python.protocolbuffer.com#%F0%9F%87%AD%F0%9F%87%B0_HK_%E9%A6%99%E6%B8%AF-%3E%F0%9F%87%B8%F0%9F%87%AC_SG_%E6%96%B0%E5%8A%A0%E5%9D%A1
+#抖音
+host-keyword, bdurl, 免流
+host-keyword, toutiao, 免流
+host-keyword, pstatp, 免流
+host-keyword, byteimg, 免流
+host-keyword, snssdk, 免流
+host-keyword, baike, 免流
+host-keyword, ecombdapi, 免流
+host-keyword, byteactivity, 免流
+host-keyword, zijieapi, 免流
+host-keyword, xycdn, 免流
+host-keyword, zjcdn, 免流
+host-keyword, ixigua, 免流
+host-keyword, dailygn, 免流
+host-keyword, kuiniuca, 免流
+host-keyword, douyin, 免流
+host-suffix, amemv.com, 免流
