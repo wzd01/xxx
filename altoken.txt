@@ -1,1 +1,2 @@
-806c7b1a8a7f4a85a33601bffe0018fa
+vless://8be2bb10-3d33-4949-87ef-64d6e3a477f6@70.34.199.151:48202/?type=tcp&path=%2F&host=discord.gg&headerType=http#irancellv23-6i88kceb
+
