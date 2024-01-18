@@ -1,1 +1,4 @@
-dm1lc3M6Ly9ldzBLSUNBaWRpSTZJQ0l5SWl3TkNpQWdJbkJ6SWpvZ0l1YXhuK2lMaithWG9PbVVvU0lzRFFvZ0lDSmhaR1FpT2lBaWQzVjRhUzU1ZFdGdU1UZ3lPQzU0ZVhvaUxBMEtJQ0FpY0c5eWRDSTZJQ0l4TkRnNE9TSXNEUW9nSUNKcFpDSTZJQ0ppTWpRMll6UTVNeTFsTTJZeUxUUTVNelV0WVRrMFlTMDBNbUUwTVRjMVlUZGlZMlVpTEEwS0lDQWlZV2xrSWpvZ0lqQWlMQTBLSUNBaWMyTjVJam9nSW1GMWRHOGlMQTBLSUNBaWJtVjBJam9nSW5SamNDSXNEUW9nSUNKMGVYQmxJam9nSW1oMGRIQWlMQTBLSUNBaWFHOXpkQ0k2SUNJaUxBMEtJQ0FpY0dGMGFDSTZJQ0lpTEEwS0lDQWlkR3h6SWpvZ0lpSXNEUW9nSUNKemJta2lPaUFpSWl3TkNpQWdJbUZzY0c0aU9pQWlJZzBLZlE9PQ0K
+hostname = ossgw.alicdn.com,img2.360buyimg.com,lf3-sf-be-pack-sign.pglstatp-toutiao.com
+^https:\/\/ossgw\.alicdn\.com\/creatives-assets\/prod/feupload/user url reject-200
+^https:\/\/img2\.360buyimg\.com\/tgx\/jfs/ url reject-200
+^http[s]?:\/\/lf3-sf-be-pack-sign\.pglstatp-toutiao\.com\/ url reject-200
