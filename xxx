@@ -1,1 +1,4 @@
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICItcXZ2Zjhnd24iLAogICJhZGQiOiAiNzAuMzQuMTk2LjEyOCIsCiAgInBvcnQiOiAxNzM5NywKICAiaWQiOiAiYjMxYjNkMzUtZWYxMC00ZjU5LWFjNTMtZDhjNmZjNzFkODA5IiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiLAogICJwYXRoIjogIi8iCn0=
+hostname = ad.lofter.com,entry.ubixioe.com,ossgw.alicdn.com,img2.360buyimg.com,lf3-sf-be-pack-sign.pglstatp-toutiao.com
+^https:\/\/ossgw\.alicdn\.com\/creatives-assets\/prod/feupload/user url reject-200
+^https:\/\/img2\.360buyimg\.com\/tgx\/jfs/ url reject-200
+^http[s]?:\/\/lf3-sf-be-pack-sign\.pglstatp-toutiao\.com\/ url reject-200
