@@ -1,4 +1,6 @@
-hostname = ossgw.alicdn.com,img2.360buyimg.com,lf3-sf-be-pack-sign.pglstatp-toutiao.com
 ^https:\/\/ossgw\.alicdn\.com\/creatives-assets\/prod/feupload/user url reject-200
 ^https:\/\/img2\.360buyimg\.com\/tgx\/jfs/ url reject-200
 ^http[s]?:\/\/lf3-sf-be-pack-sign\.pglstatp-toutiao\.com\/ url reject-200
+^https:\/\/feed-image\.baidu\.com\/0\/pic\/ url reject-dict
+
+hostname = ossgw.alicdn.com,img2.360buyimg.com,lf3-sf-be-pack-sign.pglstatp-toutiao.com, feed-image.baidu.com
